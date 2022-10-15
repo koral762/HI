@@ -4,7 +4,7 @@
 -
 -    👁‍🗨 Take a look at my Task Management App: https://taskstreelo.herokuapp.com/#/
 - 
--    🌐 Currently Im working on my "Shop:App" project!!
+-    🌐 Currently Im working on my "myShop:App" project!!
 - 
 -    📫 You can reach me at koral762@gmail.com
 - 
